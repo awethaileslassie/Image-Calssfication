@@ -1,6 +1,6 @@
 ## MNIST digit classification task using PyTorch
 
-Author: Awet Haileslassie Gebrehiwot(awethaileslassie21@gmail.com)
+Author: Awet
 
 If you have any questions on the code or README, please feel free to contact me.
 
